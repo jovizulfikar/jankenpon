@@ -10,6 +10,8 @@ public class Jankenpon {
         point = 100;
     }
 
+    //test
+
     public void setPoint(int point) {
         this.point = point;
     }
